@@ -115,6 +115,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript.
 * [spine](https://github.com/spine/spine) - Lightweight MVC library for building JavaScript applications.
 * [canjs](https://github.com/bitovi/canjs) - Can do JS, better, faster, easier.
+* [rAppid.js](https://github.com/rappid/rAppid.js) - declarative Rich Internet Application Javascript MVC Framework.
 
 
 ## Templating Engines
