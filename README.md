@@ -198,7 +198,6 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [Sugar](https://github.com/andrewplummer/Sugar) - A Javascript library for working with native objects.
 * [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
 * [ramda](https://github.com/CrossEye/ramda) - A practical functional library for Javascript programmers.
-* [allong.es](http://allong.es/) - A JavaScript library based on the function combinator and decorator recipes introduced in the book [JavaScript Allongé](https://leanpub.com/javascript-allonge/read).
 
 
 ##Data Structure
@@ -256,6 +255,7 @@ There're also some great commercial libraries, like [amchart](http://www.amchart
 * [color](https://github.com/harthur/color) - JavaScript color conversion and manipulation library.
 * [colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 * [PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes.
+* [chromath](https://github.com/jfsiii/chromath) - Color conversion and manipulation functions.
 
 ## I18n And L10n
 *Localization (l10n) and internationalization (i18n) JavaScript libraries.*
